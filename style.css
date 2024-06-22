@@ -9,7 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(54, 3, 54);
+  background-color: rgb(134, 181, 226);
 }
 
 html {
@@ -17,7 +17,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: rgb(26, 26, 26);
 }
 
 /* TRANSITION */
@@ -440,7 +440,7 @@ article .icon {
   justify-content: center;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(19, 19, 19);
   background: (250, 250, 250);
   margin: 4rem auto;
   padding: 0.5rem;
